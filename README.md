@@ -37,8 +37,8 @@ An interactive system for analyzing hotel booking data and answering questions v
 
 1. **Clone repository**:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/amanpundhir/LLM-Powered-Booking-Analytics-QA-System.git
+cd LLM-Powered-Booking-Analytics-QA-System
 ```
 
 2. **Create virtual environment** (recommended):
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 **Launch the app**:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 Access via:
