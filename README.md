@@ -1,6 +1,6 @@
 # LLM-Powered Booking Analytics & QA System
 
-An interactive system for analyzing hotel booking data and answering questions via a RAG-powered LLM. Features an analytics dashboard with 10 visualizations and a document-based QA bot.
+An interactive system for analyzing hotel booking data and answering questions via a RAG-powered LLM.
 <p>
   <strong>Test the application here:</strong>
   <a href="https://llm-powered-booking-analytics-app-system.streamlit.app/">
@@ -14,7 +14,7 @@ An interactive system for analyzing hotel booking data and answering questions v
 ### Data Collection & Preprocessing
 - Uses `cleaned_hotel_bookings.csv` dataset
 - Data cleaning and date parsing
-- Revenue calculation: `(stays * adr)`
+- Revenue calculation
 
 ### Analytics & Reporting (10 Visualizations)
 1. Revenue trends over time
