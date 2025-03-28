@@ -74,3 +74,18 @@ Access via:
 - Local URL: `http://localhost:8501`
 - Network URL: `http://<your-ip>:8501`
 
+
+## Sample Test Queries & Expected Answers
+
+Below are some example queries you can use to test the system, along with their expected responses:
+
+> **Query 1:** Show me total revenue for July 2017.
+
+**Expected Answer:**
+ The total revenue for July 2017 was 3,132,959.07.
+
+
+> **Query 2:** What is the average price of a hotel booking?
+
+**Expected Answer:**
+ The average price of a hotel booking is $101.83.
