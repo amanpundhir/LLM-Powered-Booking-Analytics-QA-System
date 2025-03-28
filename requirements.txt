@@ -3,6 +3,6 @@ pandas
 matplotlib
 seaborn
 pdfplumber
-pinecone-client
+pinecone
 google-generativeai
 sentence-transformers
