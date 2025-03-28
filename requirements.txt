@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+pdfplumber
+pinecone-client
+google-generativeai
+sentence-transformers
