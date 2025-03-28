@@ -2,7 +2,7 @@
 
 An interactive system for analyzing hotel booking data and answering questions via a RAG-powered LLM. Features an analytics dashboard with 10 visualizations and a document-based QA bot.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-deployed-app-url.com)  
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llm-powered-booking-analytics-app-system.streamlit.app/)  
 
 ## Features
 
