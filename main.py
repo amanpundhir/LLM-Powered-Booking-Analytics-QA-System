@@ -19,7 +19,7 @@ index_name = "bookings"
 index = pc.Index(index_name)
 
 
-embedder = SentenceTransformer('all-mpnet-base-v2')
+embedder = SentenceTransformer('all-MiniLM-L6-v2')
 
 
 file_path = 'cleaned_hotel_bookings.csv'  
